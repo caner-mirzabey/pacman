@@ -1,4 +1,4 @@
-# pacman
+# pacman (Incomplete!)
 Console Game Written in Java
 
 ## Dependencies
@@ -8,5 +8,5 @@ Console Game Written in Java
     https://github.com/kwhat/jnativehook
 
 ## Observations 
-System.out is to slow for high FPS
-Should find a best concurrency structure to render components, output display
+- System.out is to slow for high FPS
+- Should find a best concurrency structure to render components, output display
